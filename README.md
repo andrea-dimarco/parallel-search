@@ -3,4 +3,4 @@ For this project I took a basic single-core implementation of the MapReduce algo
 
 The use-cases in analysis are a simple word count function and a find common friends function, simulating a social network and a friend recommendation technique.
 
-Read the report for more details.
+More information in the [report (ITA)](./Progetto_Multicore_(DiMarco_Dino).pdf).
